@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pritam Bahkta</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **Robotics**
+- 🔭 I’m currently working on **Fullstack Developmet**
 
 - 🌱 I’m currently learning **Python & AI's application**
 
 - 👯 I’m looking to collaborate on **Business plan**
 
-- 📫 How to reach me **pritam.bhakta@s.amity.edu**
+- 📫 How to reach me **pritam.bhakta@s.amity.edu || pritambhakta9933@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
