@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Business plan**
 
-- 📫 How to reach me **pritam.bhakta@s.amity.edu || pritambhakta9933@gmail.com**
+- 📫 How to reach me **pritam.bhakta@s.amity.edu.in || pritambhakta9933@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
